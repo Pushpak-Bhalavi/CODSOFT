@@ -10,11 +10,12 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 📁 Where to Place the File
 
-Once downloaded, place the file here in your local project structure: CODSOFT/
-                                                                      └── Task 3 - Credit Card Fraud Detection/
-                                                                          └── Data/
-                                                                              └── creditcard.csv  ← (you place the file here)
+Once downloaded, place the file here in your local project structure: 
 
+CODSOFT/
+└── Task 3 - Credit Card Fraud Detection/
+└── Data/
+└── creditcard.csv
 
 ---
 
