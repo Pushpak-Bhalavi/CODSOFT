@@ -1,5 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-bhalavi/CODSOFT/blob/main/Notebook/titanic_prediction.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-Bhalavi/CODSOFT/Task 1 - Titanic Survival Prediction/Scripts/titanic_prediction.ipynb)
 
 
 
