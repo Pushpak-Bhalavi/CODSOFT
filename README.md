@@ -15,3 +15,7 @@ Predicts who survived the Titanic using passenger data
 Predicts the species of an Iris flower using its physical measurements 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-Bhalavi/CODSOFT/blob/main/Task%202%20-%20Iris%20Flower%20Classification/Scripts/iris_classification.ipynb)
+
+## ✅ Task 3 – Sales Pridiction
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-Bhalavi/CODSOFT/blob/main/Task%203%20-%20Sales%20Prediction/Scripts/Sales_Prediction.ipynb)
