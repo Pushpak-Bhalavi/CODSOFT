@@ -1,6 +1,6 @@
 # 🚀 CodSoft Data Science Internship Projects
 
-This repo contains my internship projects for CodSoft — Tasks 1 . Each is a self-contained ML project with data, code, and step-by-step explanation.
+This repo contains my internship projects for CodSoft — Each is a self-contained ML project with data, code, and step-by-step explanation.
 
 ---
 
@@ -17,5 +17,7 @@ Predicts the species of an Iris flower using its physical measurements
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-Bhalavi/CODSOFT/blob/main/Task%202%20-%20Iris%20Flower%20Classification/Scripts/iris_classification.ipynb)
 
 ## ✅ Task 3 – Sales Pridiction
+
+Predicts product sales based on advertising budgets using machine learning.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-Bhalavi/CODSOFT/blob/main/Task%203%20-%20Sales%20Prediction/Scripts/Sales_Prediction.ipynb)
