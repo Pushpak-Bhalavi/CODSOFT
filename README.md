@@ -10,7 +10,8 @@ Predicts whether a passenger survived the Titanic disaster based on features lik
 - 📌 Model: Logistic Regression  
 - 📈 Accuracy: ~80%  
 - 🧠 Skills: Classification, Label Encoding, Confusion Matrix  
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Pushpak-Bhalavi/CODSOFT/blob/main/Task%201%20-%20Titanic%20Survival%20Prediction/Scripts/Titenic_Prediction.ipynb)  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pushpak-Bhalavi/CODSOFT/blob/main/Task%201%20-%20Titanic%20Survival%20Prediction/Scripts/Titanic_Survival.ipynb
+)  
 - 🎥 [Watch video](https://youtu.be/zMZvjvfR_qQ)
 
 ---
